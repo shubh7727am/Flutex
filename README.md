@@ -1,7 +1,6 @@
 
 # Flutex Admin  
 
-**By Shubham Choudhary**  
 *Edited by Shubham Choudhary*  
 
 ## Overview  
@@ -92,8 +91,6 @@ lib/
 
 <p align="center">
   <img src="assets/images/app_logo.png" width="30%" />
-  <img src="assets/images/no_data.svg" width="30%" />
-  <img src="assets/images/login.png" width="30%" />
 </p>
 
 ---
