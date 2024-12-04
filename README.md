@@ -3,6 +3,22 @@
 
 *Edited by Shubham Choudhary*  
 
+<p align="center">
+  <img src="assets/images/app_logo.png" width="30%" />
+</p>
+
+---
+
+## Screenshots  
+
+<p align="center">
+  <img src="images/image1.png" width="30%" />
+  <img src="images/image2.png" width="30%" />
+  <img src="images/image3.png" width="30%" />
+</p>
+
+---
+
 ## Overview  
 
 **Flutex Admin** is an administrative tool designed for efficient data management and improved user experience. The app integrates Firebase for database operations, replacing the previous Prefix CRM system. Utilizing the **GetX MVVM** architecture, it ensures seamless state management and data flow. Key features like shared preferences and caching enhance performance and offline usability.  
@@ -87,13 +103,6 @@ lib/
 
 ---
 
-## Screenshots  
-
-<p align="center">
-  <img src="assets/images/app_logo.png" width="30%" />
-</p>
-
----
 
 ## License  
 
